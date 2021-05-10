@@ -1,4 +1,4 @@
-# ⚙️💉 Vaccine prenotation available check
+# ⚙️💉 Check vaccine prenotation available
 
 A script that check the vaccine's prenotation website and sends you a telegram message as a notification when it's available (using a Bot).
 

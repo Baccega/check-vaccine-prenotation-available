@@ -1,5 +1,5 @@
 {
-  "name": "vaccine-prenotation-available-check",
+  "name": "check-vaccine-prenotation-available",
   "version": "1.0.0",
   "description": "A script that check the vaccine's prenotation website and sends you a telegram message as a notification when it's available (using a Bot)",
   "main": "index.ts",
